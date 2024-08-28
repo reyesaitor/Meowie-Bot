@@ -1,0 +1,7 @@
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  HABILIDADES  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+ARCANO - Añade 1d8 de daño extra a todos los ataques. Si falla alguno de los ataques, se cancela, quedando 1 turno inhabilitado. 1 uso por descanso corto
+
+HOJA SANGRUIENTA - Absorbe vida de los enemigos al atacarlos, curándose 1d equivalente al daño hecho (Ejemplo: Haces 15 de daño, se cura 1d15 de vida)

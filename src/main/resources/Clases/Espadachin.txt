@@ -1,0 +1,21 @@
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤    GENERAL   ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+Clase de daño centrada en daño por destreza, ataques rápidos aunque menos eficaces
+
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  HABILIDADES  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+----- INICIALES -----
+
+TAJO EFIMERO - 2d4 de daño (2 usos antes de descanso corto)
+
+RIPOSTE - 1d4 por cada 5 de daño que fuera a recibir (1 uso antes de descanso corto)
+
+------ SLOTS -------
+
+Cada 2 niveles 1 slot de habilidad activa
+
+Cada 3 niveles 1 slot de habilidad pasiva

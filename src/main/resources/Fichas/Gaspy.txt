@@ -1,0 +1,79 @@
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  GENERAL  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+NOMBRE: Gasper/Gaspy
+
+RAZA: Vampiro Mestizo
+
+EDAD: 20
+
+GENERO: Hombre
+
+ALTURA: 1,90
+
+CLASE: ESPADACHIN / CABALLERO
+
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  STATS  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+NIVEL: 1 
+
+VIDA: 20
+
+FUERZA: 15 (+1)
+
+DESTREZA: 15 (+1)
+
+CONSTITUCION: 10 (+0)
+ 
+SABIDURIA: 10 (+0)
+
+INTELIGENCIA: 10 (+0)
+
+CARISMA: 15 (+1)
+
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  HABILIDADES  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+Habilidades de clase:
+	--> Tajo Efimero
+	--> Riposte
+
+Habilidades propias:
+	--> Arcano
+	--> Hoja Sangrienta
+
+(Las habilidades propias estan registradas en Clases>Compendio)
+
+
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  INVENTARIO  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+Mecha-Arma (Cambia entre Espadon y Estoque. Si usa Estoque 1d8 + (DES), si usa Espadon 1d12 + (FUE))
+
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  INNATAS  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+Vampiras:
+    --> Murcielago
+    --> Chuparla
+    --> Debilidad al exceso de luz Solar
+
+TPM
+
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  HISTORIA  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
+
+Mercenario conocido por venderse al mejor postor para cualquier trabajo. Actualmente soldado de alto rango del ejercito personal del Noble Boreas. No se sabe mucho si tiene relaciones estables, nisiquiera si tiene familia, solo que es un soldado despiadado y aparentemente frio.
+
+Le gustan bastante las frutas. Capaz de utilizar mas o menos cualquier arma. Duerme bastante poco.
+
+╭══════════╩ ≪°❈°≫ ╩══════════╮
+ஜஜ۩۞۩¤═══¤  IMAGEN  ¤═══¤۩۞۩ஜஜ
+╰══════════╦ ≪°❈°≫ ╦══════════╯
